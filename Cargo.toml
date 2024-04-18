@@ -1,0 +1,13 @@
+[package]
+name = "rmacro"
+version = "0.1.0"
+edition = "2021"
+authors = ["Eli Fischl <vio@ocf.berkeley.edu>","Patrick Unick <dev_storm@winux.com>"]
+license = "MIT"
+keywords = ["macro", "math", "function"]
+repository = "https://github.com/Vio-Eli/rmacro"
+description = "An internal tool for the r-series of computational crates. It handles defining expressions at build time with a macro."
+
+[lib]
+
+[dependencies]
